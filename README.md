@@ -7,6 +7,7 @@ This project implements a personal account management system in Java, providing 
 - **TransactionType enum**: Represents deposit and withdrawal transactions.
 - **Amount class**: Stores transaction amount and type.
 - **PersonalAccount class**: Manages account details, transactions, and balance.
+![image](https://github.com/user-attachments/assets/3814f054-0464-478a-b9d9-5ad5dae2c5b6)
 
 ## Running the Project
 
@@ -33,5 +34,5 @@ The project consists of the following files:
 
 Refer to the code in `Main.java` for an example of how to use the PersonalAccount functionalities.
 
-![image](https://github.com/user-attachments/assets/3814f054-0464-478a-b9d9-5ad5dae2c5b6)
+
 
