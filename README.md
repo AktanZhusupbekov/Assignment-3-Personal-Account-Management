@@ -9,7 +9,8 @@ This project implements a personal account management system in Java, providing 
 - **PersonalAccount class**: Manages account details, transactions, and balance.
 
 
-![image](https://github.com/user-attachments/assets/3814f054-0464-478a-b9d9-5ad5dae2c5b6)
+![image](https://github.com/user-attachments/assets/f14864db-6809-4604-b4d3-1e3958bd2bdf)
+
 
 ## Running the Project
 
