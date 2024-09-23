@@ -33,4 +33,5 @@ The project consists of the following files:
 
 Refer to the code in `Main.java` for an example of how to use the PersonalAccount functionalities.
 
-![image](https://github.com/user-attachments/assets/baf3999b-c597-49c7-b4e6-5198aafb2bd1)
+![image](https://github.com/user-attachments/assets/3814f054-0464-478a-b9d9-5ad5dae2c5b6)
+
