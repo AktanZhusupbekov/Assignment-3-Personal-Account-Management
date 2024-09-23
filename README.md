@@ -18,7 +18,7 @@ Ensure you have Java installed on your machine.
 
 To compile the program, use the following command:
 
-'javac Main.java'
+`javac Main.java`
 
 ## Code Structure
 
